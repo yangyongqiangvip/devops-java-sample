@@ -17,7 +17,7 @@ pipeline {
         DOCKERHUB_NAMESPACE = 'yangyongqiang'
         GITHUB_ACCOUNT = 'yangyongqiangvip'
         APP_NAME = 'devops-java-sample'
-        SONAR_CREDENTIAL_ID = 'sonar-qube'
+        SONAR_CREDENTIAL_ID = 'sonar-token'
     }
 
     stages {
